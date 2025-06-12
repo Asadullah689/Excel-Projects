@@ -30,7 +30,7 @@ Party-wise compensation trends and disparities.
 These insights are valuable for understanding how presidential compensation evolved and how it correlates with party affiliations.</p3>
     
 <div class="project">
-<h6> 3.  Vice Presidential Insights</h6>
+<h6>  <b>3.Vice Presidential Insights</b> </h6>
 <p4>The report includes two focused charts:
 
 “Most Served Vice President”: A line graph displaying which vice presidents have served the most terms. Notably, one individual appears to have served 8+ terms, highlighting outliers in vice-presidential tenure.
