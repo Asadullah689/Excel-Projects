@@ -11,4 +11,4 @@ This repository features a curated collection of my Excel dashboard projects, hi
 Key insights include salary comparisons by party, top-paid vice presidents, and the most frequently serving VPs.
 Interactive slicers enable dynamic filtering by party, vice president, and prior roles.
 Visualizations include bar charts, pie charts, and line graphs for clear data interpretation.
-It demonstrates strong skills in data modeling, visualization, and Excel dashboard design,</p2>
+It demonstrates strong skills in data modeling, visualization, and Excel dashboard design.</p2>
