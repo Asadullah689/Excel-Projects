@@ -15,4 +15,4 @@ It demonstrates strong skills in data modeling, visualization, and Excel dashboa
 <img src="Us president report.PNG"width="1000", Height="500",style="margin-top: 100px;">
  <h4>2.Students Social Media Addiction</h4>
  <p3>This study examines the impact of social media on students' academic performance, mental health, and daily routines. Platforms like Instagram and TikTok are the most commonly used, often linked to poor sleep, reduced focus, and increased stress. In contrast, students who use LinkedIn show healthier habits and stronger academic engagement. These findings highlight the need for balance in digital usage. Promoting screen-time awareness and digital wellness can help students lead healthier, more productive lives.</p3>
- 
+<img src="Students Social Media Addiction.csv"width="1000", Height="500",style="margin-top: 100px;"> 
