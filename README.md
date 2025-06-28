@@ -15,5 +15,9 @@ It demonstrates strong skills in data modeling, visualization, and Excel dashboa
 <img src="Us president report.PNG"width="600", Height="300",style="margin-top: 100px;">
  <h4>2.Students Social Media Addiction</h4>
  <p3>This study examines the impact of social media on students' academic performance, mental health, and daily routines. Platforms like Instagram and TikTok are the most commonly used, often linked to poor sleep, reduced focus, and increased stress. In contrast, students who use LinkedIn show healthier habits and stronger academic engagement. These findings highlight the need for balance in digital usage. Promoting screen-time awareness and digital wellness can help students lead healthier, more productive lives.</p3>
-<img src="Student Social Media Addiction.PNG"width="600", Height="300",style="margin-top: 100px;">
+<img src="Student Social Media Addiction.PNG"width="700", Height="500",style="margin-top: 100px;">
+<h5>Virnda Store Annual Report 2022 </h5>
+<p4>Virnda Store achieved 92% successful deliveries in 2022, with women contributing 64% of total sales. Sales peaked in March and dropped towards year-end. Maharashtra and Karnataka led in regional sales, while adults and teenagers (especially women) were top buyers.
+To grow further, focus on women-specific offers, launch year-end festive deals, and invest in high-performing states.</p4>
+<img src="virnda Sore annual report 2022.PNG"width="600", Height="300",style="margin-top: 100px;">
 
